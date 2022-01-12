@@ -1,3 +1,3 @@
 # WebScraping
-I've used request, BeautifulSoup libraries to scrape the contents of an webpage, whose link is - 
+I've used Request & BeautifulSoup library to scrape the contents of a webpage, whose link is - 
 http://books.toscrape.com/index.html
